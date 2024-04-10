@@ -1,0 +1,249 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+.cover
+{
+    width: 320px;
+    height: 420px;
+    background-color: rgb(255, 208, 0);
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+ 
+    border: 4px solid rgb(255, 255, 255);
+    display: flex;
+    position: absolute;
+    transform-origin: left;
+    transition: 2.5s;
+    
+}
+.hing
+{
+    width: 50px;
+    height: 420px;
+    background-color: brown;
+    border-right: 1px solid black;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+ 
+}
+.text
+{
+    width:270px;
+    height: 420px;
+   
+    /* background-color: aqua; */
+
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    font-style: inherit;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    flex-direction: column;
+    transition: 0.5s;
+}
+/* .page
+{
+    width: 310px;
+    height: 410px;
+    background-color: white;
+    position: absolute;
+    border: 3px solid black;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    transform-origin: left;
+    transition: 6s;
+} */
+
+.ecover
+{
+    width: 320px;
+    height: 420px;
+    background-color: rgb(255, 208, 0);
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+ justify-content: center;
+ align-items: center;
+    border: 4px solid rgb(255, 255, 255);
+    display: flex;
+    position: absolute;
+    font-size: 50px;
+    font-style: inherit;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 2.3s;
+    color: white;
+    
+    
+}
+.page1
+{
+    width: 310px;
+    height: 410px;
+    background-color: white;
+    position: absolute;
+    border: 3px solid black;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    transform-origin: left;
+    transition: 3s;
+    top: 5px;
+}
+.page2
+{
+    width: 310px;
+    height: 410px;
+    background-color: white;
+    position: absolute;
+    border: 3px solid black;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    transform-origin: left;
+    transition: 3.5s;
+    top: 5px;
+}
+.page3
+{
+    width: 310px;
+    height: 410px;
+    background-color: white;
+    position: absolute;
+    border: 3px solid black;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    transform-origin: left;
+    transition: 4s;
+    top: 5px;
+}
+.page4
+{
+    width: 310px;
+    height: 410px;
+    background-color: white;
+    position: absolute;
+    border: 3px solid black;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    transform-origin: left;
+    transition: 4.5s;
+    top: 5px;
+}
+.page5
+{
+    width: 310px;
+    height: 410px;
+    background-color: white;
+    position: absolute;
+    border: 3px solid black;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    transform-origin: left;
+    transition: 5s;
+    top: 5px;
+}
+.page6
+{
+    width: 310px;
+    height: 410px;
+    background-color: white;
+    position: absolute;
+    border: 3px solid black;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    transform-origin: left;
+    transition: 5.5s;
+    top: 5px;
+}
+.page7
+{
+    width: 310px;
+    height: 410px;
+    background-color: white;
+    position: absolute;
+    border: 3px solid black;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    transform-origin: left;
+    transition: 6s;
+    top: 5px;
+}
+.page8
+{
+    width: 310px;
+    height: 410px;
+    background-color: white;
+    position: absolute;
+    border: 3px solid black;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    transform-origin: left;
+    transition: 6.5s;
+    top: 5px;
+}
+.page9
+{
+    width: 310px;
+    height: 410px;
+    background-color: white;
+    position: absolute;
+    border: 3px solid black;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    transform-origin: left;
+    transition: 7s;
+    top: 5px;
+}
+.page10
+{
+    width: 310px;
+    height: 410px;
+    background-color: white;
+    position: absolute;
+    border: 3px solid black;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    transform-origin: left;
+    transition: 7.5s;
+    top: 5px;
+}
+.page11
+{
+    width: 310px;
+    height: 410px;
+    background-color: white;
+    position: absolute;
+    border: 3px solid black;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    transform-origin: left;
+    transition: 8s;
+    top: 5px;
+}
+.page12
+{
+    width: 310px;
+    height: 410px;
+    background-color: white;
+    position: absolute;
+    border: 3px solid black;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    transform-origin: left;
+    transition: 8.5s;
+    top: 5px;
+}
+.page13
+{
+    width: 310px;
+    height: 410px;
+    background-color: white;
+    position: absolute;
+    border: 3px solid black;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    transform-origin: left;
+    transition: 9s;
+    top: 5px;
+}
